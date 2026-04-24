@@ -5,6 +5,7 @@
   <Folder Name="/GateWay/" />
   <Folder Name="/Integration/" />
   <Folder Name="/Services/">
+    <Project Path="Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj" Id="1dcad72f-e8d7-4f48-b017-7ff144dacd9d" />
     <Project Path="Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj" Id="dd80f90c-188e-43ac-b010-042abcb5d9f1" />
   </Folder>
 </Solution>
